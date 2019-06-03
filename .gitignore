@@ -1,0 +1,2 @@
+pretrained_weight/*.pth
+data/train*
